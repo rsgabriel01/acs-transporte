@@ -664,7 +664,7 @@ h6 {
 #why-us .why-us-content .features p {
   font-size: 16px;
   margin-left: 56px;
-  color: #555186;
+  color: rgb(44, 120, 187);
 }
 
 #why-us .counters {
@@ -676,7 +676,7 @@ h6 {
   font-weight: bold;
   font-size: 48px;
   display: block;
-  color: #555186;
+  color: rgb(44, 120, 187);;
 }
 
 #why-us .counters p {
